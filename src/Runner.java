@@ -11,13 +11,13 @@ public class Runner {
     Performer jesse = new Performer("Jesse", 25, stacey);
     Comedian jack = new Comedian("Jack", 21, stacey);
     Dancer tony = new Dancer("Tony", 16, stacey, 8);
-/*
+
     //------ TESTING constructor ------
     System.out.println("----- TESTING constructor -----");
     Cabaret studio54 = new Cabaret("Studio 54");
     System.out.println(studio54.getName());
     System.out.println(studio54.getPerformers().size());
-*/
+
 /*
     //------ TESTING addPerformer method ------
     System.out.println("----- TESTING addPerformer method -----");
